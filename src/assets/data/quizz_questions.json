@@ -1,0 +1,55 @@
+{
+  "title":"Qual Stack combina mais com você, Frontend ou Backend, descubra agora",
+  "questions":[
+    {
+      "id":1,
+      "question": "Das opções a baixo o que você consideraria um ponto forte em você ?",
+      "options":[
+        {"id": 1, "name":"Criatividade e Estética", "alias":"A"},
+        {"id": 2, "name":"Paciência e Atenção aos Detalhes", "alias":"B"},
+        {"id": 3, "name":"Habilidade em Resolução criativa de Problemas", "alias":"A"},
+        {"id": 4, "name":"Habilidade em Resolução de Problemas", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":2,
+      "question": "Que senário de trabalho seria mais confotavel pra você ?",
+      "options":[
+        {"id": 1, "name":"Trabalhando com Servidores e Infraestrutura", "alias":"B"},
+        {"id": 2, "name":"Banco de dados", "alias":"B"},
+        {"id": 3, "name":"Corrigindo bugs na interface de uma pagina Web", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O que te impressiona mais em uma pagina web ?",
+      "options":[
+        {"id": 1, "name":"O Layout quando esta impecavel", "alias":"A"},
+        {"id": 2, "name":"A quantidade de informação que o site consegue armazenar e trabalhar", "alias":"B"},
+        {"id": 3, "name":"Responsividade, com a pagina mudando dinamicamente conforme a midia na qual é acessada", "alias":"A"},
+        {"id": 4, "name":"A integração com Bancos de dados e APIS", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "O que você prefere ?",
+      "options":[
+        {"id": 1, "name":"Manipular informação", "alias":"B"},
+        {"id": 2, "name":"Transformar a infomação em algo criativo", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Você se considera que tipo de pessoa",
+      "options":[
+        {"id": 1, "name":"Que gosta de usar suas ablidades para resolver problemas? ", "alias":"A"},
+        {"id": 2, "name":"Que gosta de usar sua criatividade para criar?", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Frontend!",
+    "B": "Backend!"
+  }
+}
